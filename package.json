@@ -1,0 +1,1 @@
+{"name":"theme-fleet-self","displayName":"%displayName%","description":"%description%","version":"1.0.0","publisher":"vscode","license":"MIT","engines":{"vscode":"*"},"contributes":{"themes":[{"id":"Fleet Self","label":"%themeLabel%","uiTheme":"vs-dark","path":"./themes/fleet-self-color-theme.json"}]},"repository":{"type":"git","url":"https://github.com/microsoft/vscode.git"}}
