@@ -1,10 +1,15 @@
 {
-    "name": "theme-fleet-self",
+    "name": "netbilla-vscode-theme-dark",
     "displayName": "NetBilla",
-    "description": "JetBrains Theme - Fleet Editor",
-    "version": "1.0.0",
+    "description": "NetBilla theme for VS Code",
+    "version": "1.0.2",
     "publisher": "Totoshi",
     "license": "MIT",
+    "icon": "icon.png",
+	  "galleryBanner": {
+      "color": "#1b1f23",
+      "theme": "dark"
+    },
     "engines": {
       "vscode": "*"
     },
@@ -14,7 +19,7 @@
           "id": "NetBilla",
           "label": "NetBilla",
           "uiTheme": "vs-dark",
-          "path": "./themes/fleet-self-color-theme.json"
+          "path": "./themes/netbilla-color-theme.json"
         }
       ]
     },
