@@ -11,8 +11,8 @@
     "contributes": {
       "themes": [
         {
-          "id": "Fleet Self",
-          "label": "%themeLabel%",
+          "id": "NetBilla",
+          "label": "NetBilla",
           "uiTheme": "vs-dark",
           "path": "./themes/fleet-self-color-theme.json"
         }
@@ -30,7 +30,8 @@
         "totoshi",
         "allu arjun",
         "jinan",
-        "oot crash"
+        "oot crash",
+        "t-lock"
     ]
 }
   
